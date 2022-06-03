@@ -1,16 +1,13 @@
-### Hi there 👋
+# Здравствуйте, меня зовут *Вячеслав*! 👋
+## Занимаюсь версткой и разработкой сайтов.
+### В работе использую: 
+##### **- HTML**
+##### **- SCC**
+##### **- SCSS** 
+##### - язык программирования **JavaScript** 
+##### - библиотеки: **jQuery, Dragscroll** и т.п.
 
-<!--
-**SolloVey/SolloVey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *Посмотреть мои работы с открытым кодом Вы можете ниже...*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Связаться со мной: chelnokow@gmail.com
