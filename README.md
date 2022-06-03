@@ -10,4 +10,7 @@
 ### *Посмотреть мои работы с открытым кодом Вы можете ниже...*
 
 
-###### Связаться со мной: chelnokow@gmail.com
+###### Контакты:
+
+* E-mail: chelnokow@gmail.com
+* Telegram: http://t.me/SolloVey
